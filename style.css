@@ -1,12 +1,18 @@
 body {
-  background-color:#98B4D4;
+  background: url(back.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
 }
 h1 {
   color: black;
   text-align: center;
   font-family: 'Roboto Slab', serif;
   font-weight: 500;
-  font-size: 35px;
+  font-size: 26px;
+}
+pre {
+  text-align: center;
 }
 p {
   text-align: center;
